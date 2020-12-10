@@ -1,0 +1,184 @@
+{
+   "items":[
+      {
+         "id":0,
+         "img":"images/mapa/AND_01DIC2020_DG_OsitoNavideno.gif",
+         "titulo":"Osos",
+         "desc":"¡Grandes, rojos y brillantes! Nuestros osos de Navidad ya están listos para recibir estas fiestas."
+      },
+      {
+         "id":1,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Nacimiento",
+         "desc":"Así como los pastores a Belén tú también corre presuroso para ver nuestro gran nacimiento del Niño Dios en redes sociales."
+      },
+      {
+         "id":2,
+         "img":"images/mapa/AND_27NOV202_DG_ArbolNavidad.gif",
+         "titulo":"Árbol de Navidad",
+         "desc":"Entre luces y esferas nuestro árbol de Navidad brilla cada vez más en las noches del centro comercial."
+      },
+      {
+         "id":3,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Estaciones de Navidad",
+         "desc":"Llegan tus personajes navideños favoritos a este gran espectáculo de baile, música y luces."
+      },
+      {
+         "id":4,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Nevadas",
+         "desc":"Increíbles copos de nieve caen desde el cielo en nuestras nevadas para traer hasta ti la ilusión de una blanca Navidad."
+      },
+      {
+         "id":5,
+         "img":"images/mapa/AND_01DIC2020_VV_CartasGrande.gif",
+         "titulo":"Cartas al Niño Dios",
+         "desc":"¿Cómo te portaste este año? Cuéntaselo al Niño Dios participando en nuestra dinámica y recibe un kit para escribirle tu carta desde casa."
+      },
+      {
+         "id":6,
+         "img":"images/mapa/AND_01DIC2020_VV_ReyesGrande.gif",
+         "titulo":"Reyes Magos",
+         "desc":"Tres Reyes Magos llegan desde lejos para escuchar tus buenas acciones y ayudarte a regalarle al Niño Dios lo mejor de ti."
+      },
+      {
+         "id":7,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Día de la Virgen",
+         "desc":"Este día se celebra desde la fe y ofreciendo tus oraciones a la Virgen de Guadalupe por la salud, el amor y la prosperidad de las familias."
+      },
+      {
+         "id":8,
+         "img":"images/mapa/AND_01DIC2020_VV_MarketGrande.gif",
+         "titulo":"Market at Night",
+         "desc":"Comida, sorpresas y muchos regalitos para compartir. Conoce esta nueva edición de nuestro farmers’ market navideño."
+      },
+      {
+         "id":9,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Patitos",
+         "desc":"¡Son 18 y ya están listos para Navidad! Nuestros patitos tuvieron un cambio de look para estas fiestas, ¿cuál es tu favorito?"
+      },
+      {
+         "id":10,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":11,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Street art Navidad",
+         "desc":"Comparte nuestras experiencias artísticas con tus personas favoritas entre números de baile, canto y espectáculo."
+      },
+      {
+         "id":12,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":13,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":14,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":15,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":16,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":17,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":18,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":19,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":20,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":21,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":22,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":23,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":24,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":25,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":26,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":27,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":28,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      },
+      {
+         "id":29,
+         "img":"images/mapa/AND-25NOV2020-VV-ReyesMagosGrande.gif",
+         "titulo":"Paseo de las luces",
+         "desc":"Las luces brillan desde lo alto de Paseo Andares y de nuestra obra de espejos para hacerte sentir la esencia de la Navidad."
+      }
+   ]
+}

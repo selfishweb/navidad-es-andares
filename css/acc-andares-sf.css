@@ -1,0 +1,171 @@
+
+#osomania .acc-navidad-gallery img{ width: 25%; float: left;}
+.acc-navidad-mapa-bg{ width: 100%; height: auto; }
+#link-mapa{ display: none; }
+.acc-no-padding{ padding-left: 0 !important; padding-right: 0 !important;}
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+#lomejordemi, #navidadninos{  margin-top: -6px; }
+#contact-page {
+    padding-top: 0; display: none;
+    position: fixed;
+    z-index: 1997;
+    top: 20vh;
+    background: #fff;
+    padding: 40px;
+    width: 50%;
+    height: 60vh;
+    left: 25%;
+}
+#contact-page .container{ width: 100%;}
+#contact-page .form-group textarea.form-control {
+    height: 116px;
+}
+#contact-page .form-group .form-control {
+    padding: 0 12px;
+    border-color: #ddd;
+  }
+#contact-page  #pop-close-contacto{
+      position: absolute; cursor: pointer;
+      right: 20px;
+      width: 35px;
+      top: 20px;
+  }
+
+  .main-title {
+      font-family: Didot,serif;
+      font-size: 4.8rem;
+      color: #b5a08f;
+      letter-spacing: 3.43px;
+      text-transform: uppercase;
+  }
+  .text-center {
+      text-align: center;
+  }
+.large-title {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.large-title h2 {
+    font-size: 2em;
+    font-weight: 700;
+    color: #222;
+}
+.large-title p {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #989898;
+    font-weight: 300;
+}
+
+.btn-banner{
+    position: absolute;
+    left: 42%;
+    right: 50%;
+    margin: 0 auto;
+    bottom: 25px;
+}
+
+.btn-andares {
+    position: relative;
+    display: inline-block;
+    border: 1px solid #b5a08f;
+    padding: 10px 15px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.btn-banner {
+    position: absolute;
+    left: 30%;
+    right: 50%;
+    margin: 0 auto;
+    bottom: 28px;
+}
+.btn-andaresdos {
+    padding: 8px 20px;
+    background: transparent;
+    color: #fff;
+    border-radius: 0px;
+    border: none;
+    margin-top: 10px;
+    border: solid 1px #fff;
+    width: 40%; height: 36px;
+}
+.btn-andarestres {
+    padding: 8px 20px;
+    background: transparent;
+    color: #fff;
+    border-radius: 0px;
+    border: none;
+    margin-top: 10px;
+    border: solid 1px #8e1e1d;
+    width: 40%; height: 36px;
+}
+.btn-andarescuatro {
+    padding: 8px 20px;
+    background: transparent;
+    color: #fff;
+    border-radius: 0px;
+    border: none;
+    margin-top: 10px;
+    border: solid 1px #704522;
+    width: 40%; height: 36px;
+}
+.btn-andaresdos:hover{
+   border: solid 1px #ccc;
+}
+.btn-andarestres:hover{
+   border: solid 1px #938c5e;
+}
+.btn-andarescuatro:hover{
+  border: solid 1px #916e4e;
+}
+@media only screen and (max-width: 767px){
+
+.main-title {
+    font-family: Didot,serif;
+    font-size: 3.8rem;
+    color: #b5a08f;
+    letter-spacing: 3.43px;
+    text-transform: uppercase;
+}
+
+#link-mapa{ display: block; }
+#banners {     margin-top: -6px; }
+
+#contact-page {
+    padding-top: 0;
+    display: none;
+    position: fixed;
+    z-index: 1997;
+    top: 0vh;
+    background: #fff;
+    padding: 20px;
+    width: 100%;
+    height: 100vh;
+    left: 0;
+}
+
+.btn-andaresdos {
+    height: 30px;
+}
+.btn-andarestres {
+    width: 40%; height: 30px;
+}
+.btn-andarescuatro {
+    width: 40%; height: 30px;
+}
+.btn-banner {
+    position: absolute;
+    left: 30%;
+    right: 50%;
+    margin: 0 auto;
+    bottom: 14px;
+}
+
+
+}
